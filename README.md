@@ -22,3 +22,4 @@ Une application web simple pour gérer ses tâches quotidiennes.
 
 ## Auteur
 Boubacar Diarra
+> Projet réalisé dans le cadre du TP Git & GitHub
